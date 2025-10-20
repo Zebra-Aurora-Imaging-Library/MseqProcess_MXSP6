@@ -1,4 +1,4 @@
-# Simple3dStitching_MXSP4
+# MseqProcess_MXSP6
 
 Date: 04/05/2024
 
@@ -13,3 +13,4 @@ The project structure, including the xml and png files, aims to be copied in "\U
 
 **Link**  
 https://github.com/Zebra-Aurora-Imaging-Library/MseqProcess_MXSP6
+
